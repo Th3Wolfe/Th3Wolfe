@@ -11,18 +11,14 @@
 
 &nbsp;
 
-<a href="https://linkedin.com/in/bechir-lahoueg"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=7dcea0" /></a>
+<a href="https://www.linkedin.com/in/iago-martins-023984406"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=7dcea0" /></a>
 &ensp;
-<a href="mailto:bechirlahweg@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=7dcea0" /></a>
+<a href="mailto:imaartins98@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=7dcea0" /></a>
 &ensp;
-<a href="https://instagram.com/bechir_lahweg"><img src="https://img.shields.io/badge/Instagram-0a0f0a?style=for-the-badge&logo=instagram&logoColor=7dcea0" /></a>
-&ensp;
-<a href="https://fb.com/bechirlahoueg"><img src="https://img.shields.io/badge/Facebook-0a0f0a?style=for-the-badge&logo=facebook&logoColor=7dcea0" /></a>
 <a href="https://wa.me/21628509217"><img src="https://img.shields.io/badge/WhatsApp-0a0f0a?style=for-the-badge&logo=whatsapp&logoColor=7dcea0" /></a>
 &ensp;
-<a href="https://github.com/bechir-lahoueg"><img src="https://img.shields.io/badge/GitHub-0a0f0a?style=for-the-badge&logo=github&logoColor=7dcea0" /></a>
+<a href="https://github.com/Th3Wolfe"><img src="https://img.shields.io/badge/GitHub-0a0f0a?style=for-the-badge&logo=github&logoColor=7dcea0" /></a>
 &ensp;
-<a href="https://bechir-lahoueg.dev"><img src="https://img.shields.io/badge/Portfolio-0a0f0a?style=for-the-badge&logo=About.me&logoColor=7dcea0" /></a>
 
 </div>
 
