@@ -9,6 +9,8 @@
 &ensp;
 <img src="https://img.shields.io/github/stars/Th3Wolfe?label=stars&style=for-the-badge&color=1a5c2e&labelColor=0a0f0a&logo=github&logoColor=7dcea0" height="25" />
 
+&nbsp;
+
 <a href="https://linkedin.com/in/bechir-lahoueg"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=7dcea0" /></a>
 &ensp;
 <a href="mailto:bechirlahweg@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=7dcea0" /></a>
@@ -107,14 +109,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
-
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 &nbsp;
 
