@@ -83,7 +83,7 @@
 
 <div align="center">
 
-### `> fortune`
+### Quotes
 
 &nbsp;
 
