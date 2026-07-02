@@ -78,3 +78,94 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 &nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XI. CURRENTLY VIBING   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+
+### `> spotify --now-playing`
+
+*The soundtrack to the forest.*
+
+&nbsp;
+
+<a href="https://open.spotify.com/user/gobnx6w2kf9vab2vige3cilb2">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gobnx6w2kf9vab2vige3cilb2&cover_image=true&theme=neon&show_offline=true&background_color=0a0f0a&interchange=false&bar_color=1a5c2e&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
+</a>
+
+</div>
+
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XII. WHISPER — QUOTE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+
+### `> fortune`
+
+&nbsp;
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" />
+
+&nbsp;
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XIII. SIGNAL FIRE — CONTACT   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+
+### `> signal --broadcast`
+
+*You made it to the end. That makes you one of us.*
+
+&nbsp;
+
+<a href="https://linkedin.com/in/bechir-lahoueg"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=7dcea0" /></a>
+&ensp;
+<a href="mailto:bechirlahweg@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=7dcea0" /></a>
+&ensp;
+<a href="https://instagram.com/bechir_lahweg"><img src="https://img.shields.io/badge/Instagram-0a0f0a?style=for-the-badge&logo=instagram&logoColor=7dcea0" /></a>
+&ensp;
+<a href="https://fb.com/bechirlahoueg"><img src="https://img.shields.io/badge/Facebook-0a0f0a?style=for-the-badge&logo=facebook&logoColor=7dcea0" /></a>
+
+&nbsp;
+
+<a href="https://wa.me/21628509217"><img src="https://img.shields.io/badge/WhatsApp-0a0f0a?style=for-the-badge&logo=whatsapp&logoColor=7dcea0" /></a>
+&ensp;
+<a href="https://github.com/bechir-lahoueg"><img src="https://img.shields.io/badge/GitHub-0a0f0a?style=for-the-badge&logo=github&logoColor=7dcea0" /></a>
+&ensp;
+<a href="https://bechir-lahoueg.dev"><img src="https://img.shields.io/badge/Portfolio-0a0f0a?style=for-the-badge&logo=About.me&logoColor=7dcea0" /></a>
+
+</div>
+
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<sub>
+
+**This is not a profile. This is a presence.**
+
+If something here moved you, or made you want to build —
+**leave a ⭐ — it plants a tree in this forest.**
+
+</sub>
+
+&nbsp;
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f35,15:1a5c2e,30:134e3a,50:0b3d2e,70:0d2818,85:0a1a10,100:000000&height=150&section=footer&animation=fadeIn" width="100%" />
+
+</div>
