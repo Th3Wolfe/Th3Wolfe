@@ -16,6 +16,11 @@
 <a href="https://instagram.com/bechir_lahweg"><img src="https://img.shields.io/badge/Instagram-0a0f0a?style=for-the-badge&logo=instagram&logoColor=7dcea0" /></a>
 &ensp;
 <a href="https://fb.com/bechirlahoueg"><img src="https://img.shields.io/badge/Facebook-0a0f0a?style=for-the-badge&logo=facebook&logoColor=7dcea0" /></a>
+<a href="https://wa.me/21628509217"><img src="https://img.shields.io/badge/WhatsApp-0a0f0a?style=for-the-badge&logo=whatsapp&logoColor=7dcea0" /></a>
+&ensp;
+<a href="https://github.com/bechir-lahoueg"><img src="https://img.shields.io/badge/GitHub-0a0f0a?style=for-the-badge&logo=github&logoColor=7dcea0" /></a>
+&ensp;
+<a href="https://bechir-lahoueg.dev"><img src="https://img.shields.io/badge/Portfolio-0a0f0a?style=for-the-badge&logo=About.me&logoColor=7dcea0" /></a>
 
 </div>
 
@@ -106,26 +111,6 @@
 &nbsp;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-&nbsp;
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XIII. SIGNAL FIRE — CONTACT   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-### `> signal --broadcast`
-
-*You made it to the end. That makes you one of us.*
-
-&nbsp;
-
-<a href="https://wa.me/21628509217"><img src="https://img.shields.io/badge/WhatsApp-0a0f0a?style=for-the-badge&logo=whatsapp&logoColor=7dcea0" /></a>
-&ensp;
-<a href="https://github.com/bechir-lahoueg"><img src="https://img.shields.io/badge/GitHub-0a0f0a?style=for-the-badge&logo=github&logoColor=7dcea0" /></a>
-&ensp;
-<a href="https://bechir-lahoueg.dev"><img src="https://img.shields.io/badge/Portfolio-0a0f0a?style=for-the-badge&logo=About.me&logoColor=7dcea0" /></a>
-
-</div>
 
 &nbsp;
 
