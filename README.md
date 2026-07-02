@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:050d09,25:0a1a10,40:0d2818,55:0b3d2e,70:134e3a,85:1a5c2e,100:1f6f35&height=280&section=header&text=IAGO%20MARTINS&fontSize=62&fontColor=c9f5d9&animation=fadeIn&fontAlignY=33&desc=Desenvolvedor%20Full%20Stack%20%20%E2%97%88%20%20Gamedev%20%20%E2%97%88%20%20Open%20to%20Work&descAlignY=55&descSize=14&descFontColor=6db88a" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:050d09,25:0a1a10,40:0d2818,55:0b3d2e,70:134e3a,85:1a5c2e,100:1f6f35&height=280&section=header&text=Iago%20Martins&fontSize=62&fontColor=c9f5d9&animation=fadeIn&fontAlignY=33&desc=Desenvolvedor%20Full%20Stack%20%20%E2%97%88%20%20Gamedev%20%20%E2%97%88%20%20Open%20to%20Work&descAlignY=55&descSize=14&descFontColor=6db88a" width="100%" />
 
 <!-- Badges row -->
 <img src="https://komarev.com/ghpvc/?username=Th3Wolfe&label=forest+visitors&color=1a5c2e&style=for-the-badge&labelColor=0a0f0a" height="25" />
