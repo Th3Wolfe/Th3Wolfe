@@ -5,12 +5,16 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Generate 3D contrib graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.0
@@ -18,10 +22,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Th3Wolfe
 
-      - name: Commit result
+      - name: Commit & Push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+
           git add .
-          git commit -m "generate 3d contrib graph" || echo "No changes to commit"
+
+          git commit -m "generate 3d contrib graph" || echo "No changes"
+
+          git pull --rebase origin main || true
           git push origin main
