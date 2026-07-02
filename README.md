@@ -1,3 +1,5 @@
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   Inicio   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:050d09,25:0a1a10,40:0d2818,55:0b3d2e,70:134e3a,85:1a5c2e,100:1f6f35&height=280&section=header&text=Iago%20Martins&fontSize=62&fontColor=c9f5d9&animation=fadeIn&fontAlignY=33&desc=Desenvolvedor%20Full%20Stack%20%20%E2%97%88%20%20Gamedev%20%20%E2%97%88%20%20Open%20to%20Work&descAlignY=55&descSize=14&descFontColor=6db88a" width="100%" />
@@ -15,7 +17,7 @@
 &ensp;
 <a href="mailto:imaartins98@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=7dcea0" /></a>
 &ensp;
-<a href="https://wa.me/21628509217"><img src="https://img.shields.io/badge/WhatsApp-0a0f0a?style=for-the-badge&logo=whatsapp&logoColor=7dcea0" /></a>
+<a href="https://wa.me/553588597670"><img src="https://img.shields.io/badge/WhatsApp-0a0f0a?style=for-the-badge&logo=whatsapp&logoColor=7dcea0" /></a>
 &ensp;
 <a href="https://github.com/Th3Wolfe"><img src="https://img.shields.io/badge/GitHub-0a0f0a?style=for-the-badge&logo=github&logoColor=7dcea0" /></a>
 &ensp;
@@ -28,9 +30,11 @@
 
 &nbsp;
 
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   Tech Stack   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
 <div align="center">
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 *As tecnologias que utilizo para projetar, desenvolver e entregar software.*
 
@@ -66,13 +70,79 @@
 
 &nbsp;
 
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   Projetos   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+
+## Meus Projetos
+
+*Experimentos, produtos e jogos desenvolvidos por mim do conceito até a implementação.*
+
+&nbsp;
+
+## 🏆 CS Major Manager
+
+### *A experiência definitiva de gestão no cenário competitivo de Counter-Strike*
+
+Gerencie uma organização de esports, monte elencos, descubra talentos, desenvolva estratégias, dispute campeonatos e conduza sua equipe até a conquista de um Major.
+
+&nbsp;
+
+<img src="assets/menu-principal.gif" width="100%" alt="CS Major Manager Main Menu" />
+
+<a href="https://github.com/Th3Wolfe/CS-Major-Manager">
+  <img src="https://img.shields.io/badge/Repository-0a0f0a?style=for-the-badge&logo=github&logoColor=7dcea0" />
+</a>
+<img src="https://img.shields.io/badge/Status-In%20Development-1a5c2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Genre-Esports%20Management-1a5c2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-Web-1a5c2e?style=for-the-badge" />
+
+&nbsp;
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧠 Estratégia
+
+Sistema de veto de mapas, definição de táticas, gerenciamento de economia e tomada de decisões competitivas.
+
+</td>
+
+<td width="33%" align="center">
+
+### 👥 Gestão de Elenco
+
+Contrate jogadores, monte lineups, desenvolva talentos e construa projetos vencedores.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏅 Jornada do Major
+
+Participe de campeonatos, supere adversários e busque o título mais prestigiado do cenário.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   X. THE DIMENSION — 3D   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
 ### Render 3D
 
-*Every peak is a week of obsession. Every valley, a seed being planted.*
+*Cada pico é resultado de semanas de dedicação intensa. Cada vale é uma semente em fase de crescimento.*
 
 &nbsp;
 
@@ -86,28 +156,4 @@
 
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-&nbsp;
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XII. WHISPER — QUOTE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-### Quotes
-
-&nbsp;
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" />
-
-&nbsp;
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
-&nbsp;
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f35,15:1a5c2e,30:134e3a,50:0b3d2e,70:0d2818,85:0a1a10,100:000000&height=150&section=footer&animation=fadeIn" width="100%" />
-
-</div>
