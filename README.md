@@ -79,28 +79,6 @@
 
 &nbsp;
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XI. CURRENTLY VIBING   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-### `> spotify --now-playing`
-
-*The soundtrack to the forest.*
-
-&nbsp;
-
-<a href="https://open.spotify.com/user/31yfj7ws5pvopupridhdn3ppc4sm">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yfj7ws5pvopupridhdn3ppc4sm&cover_image=true&theme=neon&show_offline=true&background_color=0a0f0a&interchange=false&bar_color=1a5c2e&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
-</a>
-
-</div>
-
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-&nbsp;
-
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   XII. WHISPER — QUOTE   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
