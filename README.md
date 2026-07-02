@@ -155,15 +155,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<sub>
-
-**This is not a profile. This is a presence.**
-
-If something here moved you, or made you want to build —
-**leave a ⭐ — it plants a tree in this forest.**
-
-</sub>
-
 &nbsp;
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f35,15:1a5c2e,30:134e3a,50:0b3d2e,70:0d2818,85:0a1a10,100:000000&height=150&section=footer&animation=fadeIn" width="100%" />
