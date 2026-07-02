@@ -17,10 +17,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Th3Wolfe
 
-      - name: Commit files
+      - name: Commit result
         run: |
           git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.email "github-actions@github.com"
+      
           git add .
-          git commit -m "generate 3D contribution graph"
-          git push
+      
+          git commit -m "generate 3d contrib graph" || echo "No changes to commit"
+      
+          git push origin main
