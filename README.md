@@ -9,6 +9,14 @@
 &ensp;
 <img src="https://img.shields.io/github/stars/Th3Wolfe?label=stars&style=for-the-badge&color=1a5c2e&labelColor=0a0f0a&logo=github&logoColor=7dcea0" height="25" />
 
+<a href="https://linkedin.com/in/bechir-lahoueg"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=7dcea0" /></a>
+&ensp;
+<a href="mailto:bechirlahweg@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=7dcea0" /></a>
+&ensp;
+<a href="https://instagram.com/bechir_lahweg"><img src="https://img.shields.io/badge/Instagram-0a0f0a?style=for-the-badge&logo=instagram&logoColor=7dcea0" /></a>
+&ensp;
+<a href="https://fb.com/bechirlahoueg"><img src="https://img.shields.io/badge/Facebook-0a0f0a?style=for-the-badge&logo=facebook&logoColor=7dcea0" /></a>
+
 </div>
 
 &nbsp;
@@ -108,16 +116,6 @@
 ### `> signal --broadcast`
 
 *You made it to the end. That makes you one of us.*
-
-&nbsp;
-
-<a href="https://linkedin.com/in/bechir-lahoueg"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=7dcea0" /></a>
-&ensp;
-<a href="mailto:bechirlahweg@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=7dcea0" /></a>
-&ensp;
-<a href="https://instagram.com/bechir_lahweg"><img src="https://img.shields.io/badge/Instagram-0a0f0a?style=for-the-badge&logo=instagram&logoColor=7dcea0" /></a>
-&ensp;
-<a href="https://fb.com/bechirlahoueg"><img src="https://img.shields.io/badge/Facebook-0a0f0a?style=for-the-badge&logo=facebook&logoColor=7dcea0" /></a>
 
 &nbsp;
 
