@@ -59,7 +59,7 @@
 
 <div align="center">
 
-### `> dimension --render-3d`
+### Render 3D
 
 *Every peak is a week of obsession. Every valley, a seed being planted.*
 
