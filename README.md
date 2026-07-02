@@ -90,7 +90,7 @@
 &nbsp;
 
 <a href="https://open.spotify.com/user/gobnx6w2kf9vab2vige3cilb2">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gobnx6w2kf9vab2vige3cilb2&cover_image=true&theme=neon&show_offline=true&background_color=0a0f0a&interchange=false&bar_color=1a5c2e&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yfj7ws5pvopupridhdn3ppc4sm&cover_image=true&theme=neon&show_offline=true&background_color=0a0f0a&interchange=false&bar_color=1a5c2e&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
 </a>
 
 </div>
