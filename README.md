@@ -82,7 +82,7 @@
 
 ## 🏆 CS Major Manager
 
-### *A experiência definitiva de gestão no cenário competitivo de Counter-Strike*
+### *A experiência definitiva de draft-roguelike no cenário competitivo de Counter-Strike*
 
 Gerencie uma organização de esports, monte elencos, descubra talentos, desenvolva estratégias, dispute campeonatos e conduza sua equipe até a conquista de um Major.
 
@@ -135,6 +135,55 @@ Participe de campeonatos, supere adversários e busque o título mais prestigiad
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 &nbsp;
+
+<div align="center">
+  
+## 🎫 Chama
+ 
+### *Sistema de gestão de chamados de TI para Câmaras Municipais de médio e pequeno porte*
+ 
+Abertura, acompanhamento e resolução de chamados de suporte técnico com histórico auditável, dashboard administrativo e relatórios exportáveis em PDF — login corporativo via Google Workspace OAuth.
+ 
+&nbsp;
+ 
+<a href="https://github.com/Th3Wolfe/Chama">
+  <img src="https://img.shields.io/badge/Repository-0a0f0a?style=for-the-badge&logo=github&logoColor=7dcea0" />
+</a>
+<img src="https://img.shields.io/badge/Status-V1-1a5c2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Genre-Gest%C3%A3o%20de%20TI-1a5c2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-Web-1a5c2e?style=for-the-badge" />
+&nbsp;
+ 
+<table>
+<tr>
+<td width="33%" align="center">
+  
+### 🎟️ Chamados
+ 
+Abertura com categoria, prioridade e anexos, linha do tempo com histórico completo de status e comentários.
+ 
+</td>
+<td width="33%" align="center">
+  
+### 📊 Dashboard
+ 
+Painel administrativo com totais em tempo real, tempo médio de atendimento e distribuição por técnico.
+ 
+</td>
+<td width="33%" align="center">
+  
+### 📄 Relatórios
+ 
+Chamados por mês, categoria, setor e técnico, exportáveis em PDF direto pela interface.
+ 
+</td>
+</tr>
+</table>
+</div>
+
+&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   X. THE DIMENSION — 3D   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
