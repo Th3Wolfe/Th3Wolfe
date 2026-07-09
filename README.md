@@ -147,7 +147,11 @@ Participe de campeonatos, supere adversários e busque o título mais prestigiad
 Abertura, acompanhamento e resolução de chamados de suporte técnico com histórico auditável, dashboard administrativo e relatórios exportáveis em PDF — login corporativo via Google Workspace OAuth.
  
 &nbsp;
- 
+
+<img src="assets/chama-dashboard.gif" width="100%" alt="CS Major Manager Main Menu" />
+
+&nbsp;
+
 <a href="https://github.com/Th3Wolfe/Chama">
   <img src="https://img.shields.io/badge/Repository-0a0f0a?style=for-the-badge&logo=github&logoColor=7dcea0" />
 </a>
