@@ -90,6 +90,8 @@ Gerencie uma organização de esports, monte elencos, descubra talentos, desenvo
 
 <img src="assets/menu-principal.gif" width="100%" alt="CS Major Manager Main Menu" />
 
+&nbsp;
+
 <a href="https://github.com/Th3Wolfe/CS-Roguelike">
   <img src="https://img.shields.io/badge/Repository-0a0f0a?style=for-the-badge&logo=github&logoColor=7dcea0" />
 </a>
