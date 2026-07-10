@@ -148,7 +148,7 @@ Abertura, acompanhamento e resolução de chamados de suporte técnico com hist�
  
 &nbsp;
 
-<img src="assets/chama-dashboard.gif" width="100%" alt="CS Major Manager Main Menu" />
+<img src="assets/chama-demonstration.gif" width="100%" alt="CS Major Manager Main Menu" />
 
 &nbsp;
 
