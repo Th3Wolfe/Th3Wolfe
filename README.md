@@ -144,12 +144,13 @@ Participe de campeonatos, supere adversários e busque o título mais prestigiad
  
 ### *Sistema de gestão de chamados de TI para Câmaras Municipais de médio e pequeno porte*
  
-Abertura, acompanhamento e resolução de chamados de suporte técnico com histórico auditável, dashboard administrativo e relatórios exportáveis em PDF — login corporativo via Google Workspace OAuth.
+Abertura, acompanhamento e resolução de chamados de suporte técnico com histórico auditável, dashboard administrativo com SLA, busca global e relatórios exportáveis em PDF e Excel — login corporativo via Google Workspace OAuth.
  
 &nbsp;
 
 <img src="assets/chama-demonstration.gif" width="100%" alt="CS Major Manager Main Menu" />
 
+&nbsp;
 &nbsp;
 
 <a href="https://github.com/Th3Wolfe/Chama">
@@ -158,6 +159,7 @@ Abertura, acompanhamento e resolução de chamados de suporte técnico com hist�
 <img src="https://img.shields.io/badge/Status-V1-1a5c2e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Genre-Gest%C3%A3o%20de%20TI-1a5c2e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Platform-Web-1a5c2e?style=for-the-badge" />
+
 &nbsp;
  
 <table>
@@ -166,29 +168,27 @@ Abertura, acompanhamento e resolução de chamados de suporte técnico com hist�
   
 ### 🎟️ Chamados
  
-Abertura com categoria, prioridade e anexos, linha do tempo com histórico completo de status e comentários.
+Abertura com categoria, prioridade, anexos e vínculo opcional a um equipamento do inventário, com linha do tempo completa de status e comentários.
  
 </td>
 <td width="33%" align="center">
   
 ### 📊 Dashboard
  
-Painel administrativo com totais em tempo real, tempo médio de atendimento e distribuição por técnico.
+Painel administrativo com totais em tempo real, SLA por prioridade, fila do técnico e busca global por chamados, equipamentos e usuários.
  
 </td>
 <td width="33%" align="center">
   
 ### 📄 Relatórios
  
-Chamados por mês, categoria, setor e técnico, exportáveis em PDF direto pela interface.
+Chamados por mês, categoria, setor e técnico, exportáveis em PDF ou Excel direto pela interface.
  
 </td>
 </tr>
 </table>
 </div>
-
 &nbsp;
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   X. THE DIMENSION — 3D   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
